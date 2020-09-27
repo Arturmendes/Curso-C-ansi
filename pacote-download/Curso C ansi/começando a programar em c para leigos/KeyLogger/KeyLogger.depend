@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560823289 source:c:\users\artur\onedrive\curso c ansi\começando a programar em c para leigos\keylogger\main.c
+	<stdio.h>
+	<windows.h>
+
